@@ -1,0 +1,186 @@
+- Definiciones
+	- Enfoque conductual
+		- "Cambio relativamente permanente en la conducta como resultado de la práctica".
+	- Enfoque cognitivo
+		- "Proceso de transformación de novicio a experto".
+- Procesos
+  card-last-score:: 5
+  card-repeats:: 1
+  card-next-schedule:: 2022-06-22T03:42:18.892Z
+  card-last-interval:: 4
+  card-ease-factor:: 2.6
+  card-last-reviewed:: 2022-06-18T03:42:18.893Z
+	- Memoria
+		- Tipos de memoria
+			- Memoria sensorial
+			- Memoria de trabajo
+				- Ejecutivo central
+				- Agenda visoespacial
+				- _Buffer_ episódico
+				- Bucle fonológico
+			- Memoria de largo plazo
+		- Técnicas para la memoria
+			- Memoria activa
+			- Sueño _REM_ en horario nocturno o siestas diurnas
+			- Entrenamiento computarizados
+			- Almohadilla de pensamiento
+			- Recapitulación de actividades diarias antes de dormir
+			- Repetición espaciada
+			- Entrenamientos cognitivos y metacognitivos
+			- Ejercicio y práctica deportiva
+			- Relaciones sociales
+			- Fragmentación o _Chunking_
+			- Diagramación
+				- Gráficos
+				- Mapas mentales
+				- Mapas conceptuales
+				- Líneas de tiempo
+				- Tablas comparativas
+			- Crear historias para la promoción del interés
+				- Tensión y Simplicidad
+				- Novedad y Familiaridad
+				- Autonomía y Guía
+				- Interacción social e Independencia
+			- Juegos ubicuos
+			- Explicaciones o _Método Feynman_
+				- Escucha atenta
+				- Parafrasear
+				- Verbalizar
+				- Sintetizar
+				- Aclarar
+				- Pensamiento orientado a evidencias
+				- Diversificación explicativa
+				- Resolución de discrepancias
+			- Aprendizaje integrado
+			- _El Palacio de la Memoria_
+	- Atención
+		- Elementos
+			- Decisión de atender
+			- Diseño de entorno de estudio
+			- Automatización de procesos de pensamiento
+			- Aprendizaje incidental
+		- Multitasking
+			- Características personales
+				- Alta confianza en sí mismos
+				- Tolerantes a la crítica
+				- Alta necesidad de libertad de acción
+			- Resultados
+				- Disminuye el desempeño
+				- También implica conductas antecedentes y consecuentes
+				- Costo de tiempo, efectividad y bienestar
+	- Motivación
+		- Tipos
+			- Motivación intrínseca
+			- Motivación extrínseca
+		- El _lado oscuro_ de la motivación
+			- Evitadores de trabajo
+			- Metas sociales
+			- Indefensión aprendida
+		- Facilitadores de la motivación
+			- Retroalimentación inmediata
+			- Encuadre intrínseco
+			- Aceptación de la meta
+			- Intereses variados
+			- Logros
+			- Equilibrio de complejidad de la tarea
+			- Felicidad
+	- Lectura
+		- Tipos de lectura
+			- Literal
+			- Inferencial
+			- Crítica
+		- Elementos de la lectura
+			- Decodificación
+				- Conciencia fonética
+				- Conciencia fonológica
+			- Fluidez
+				- Velocidad
+				- Prosodia/expresión
+				- Precisión
+			- Vocabulario
+			- Comprensión
+		- Formatos
+			- Papel
+			- Lectura
+		- Intencionalidad
+			- Intensiva
+			- Extensiva
+		- Efectos del círculo virtuoso de la lectura
+			- Mayor disfrute
+			- Mayor velocidad
+			- Mejor lectura
+			- Mejor comprensión
+		- Técnicas de la lectura
+			- Visión adecuada
+			- Menos puntos de fijación
+			- Ajuste de los audiolibros
+			- Texto a nivel instruccional
+			- Uso de software
+			- Fijadores de ritmo lector
+			- _Skimming_
+			- _Scanning_
+			- Fijación en nuevo vocabulario
+			- Uso de diccionario
+			- Conocimiento etimológico
+			- Practicar la escritura
+			- Hacer anotación
+			- Subrayar
+			- Uso de organizadores gráficos
+			- Postlecturas
+			  :LOGBOOK:
+			  CLOCK: [2022-06-26 Sun 09:22:41]
+			  :END:
+	- Metacognición
+	  Especialmente estudiada por John Flavell (1976)
+		- Objetivos
+			- Declarativo: Conocer recursos cognitivos
+			- Procedimental: Controlar recursos cognitivos
+			- Condicional: Pragmatismo de recursos cognitivos
+		- Características de la _Autoregulación metacognitiva_
+			- Autoeficacia
+			- Calibración
+			  Efecto *difícil-fácil* descrito por Lichtenstein & Fischhohh (1977) en el que se subestima nuestro desempeño en tareas fáciles y lo sobreestimamos en tareas difíciles
+			- Persistencia
+			- Estrategias efectivas para aprender
+			- Robusto sentido del _self_
+			- Atención a conductas, creencias y deseos
+			- Alta motivación
+		- Diagnóstico metacognitivo
+			- ¿Qué hice para llegar a la respuesta?
+				- El problema es que Julio dice tener 35 años, pero no toma en cuenta los fines de semana. La pregunta es: ¿Cuántos años tiene en realidad?
+				  
+				  ¿Cómo hice para llegar a la respuesta?  ¿Cómo pensaste y qué recursos de pensamiento usaste?
+			- Monitoreo metacognitivo
+				- ¿Estoy siguiendo el plan?
+			- Planeación metacognitiva
+				- ¿Cómo voy a llegar a la respuesta?
+			- Revisión metacognitiva
+				- ¿Llegué a la meta?
+				- ¿Mi respuesta corresponde a la demanda inicial?
+				- ¿El problema estaba bien definido originalmente?
+		- Metacognición y atención selectiva
+			- ¿En qué debo fijarme?
+			- _Enemigos de la atención selectiva_: Pensamiento intrusivos y divagación
+				- Pueden o no avisar
+				- Sentido general de incomodidad
+				- No son deseados
+			- Síndrome cognitivo atencional
+			  "Entre más luchas contra tus pensamientos, más persistes en ellos"
+- Hábitos de aprendizaje
+	- Organización del entorno
+		- Disponibilidad de recursos y materiales
+		- Promoción de la comodidad
+		- Armonía temporal
+	- Simulación de pruebas
+	- Planeación del aprendizaje
+		- Establecimiento de objetivos
+		- Establecimiento de indicadores de aprendizaje
+	- División de tareas
+	- Diversificación de fuentes de aprendizaje
+	- Técnicas de lectura
+	- Trabajo cognitivo y metacognitivo constante
+	- Análisis de la relación contexto-tiempo
+		- Identificación de la demanda
+		- Identificación de los recursos de respuesta
+	- Consideración de fuentes y expertos
+	- Asignación de tiempos de descanso óptimo
